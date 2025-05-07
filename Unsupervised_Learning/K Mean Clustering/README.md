@@ -1,4 +1,4 @@
-# Overview of K-Means Clustering (KMC)
+# Overview of K-Means Clustering (KMC) - 
 
 ![KMC pic 1](./kmc_pic1.png)
 
@@ -22,7 +22,7 @@ Despite its simplicity, K-Means has some limitations, such as sensitivity to the
 ![KMC pic 2](./kmc_pic2.png)
 
 
-# Overview of the Dataset
+# Overview of the Dataset - 
 
 - This project uses the Wine dataset, available through SKlearn, to demonstrate its power to both reduce dimentionality while preserving power.
 

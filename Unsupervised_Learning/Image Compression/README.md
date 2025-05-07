@@ -1,6 +1,6 @@
 
 
-# Overview of Singular Value Decomposition in Image Compression(SVD)
+# Overview of Singular Value Decomposition in Image Compression(SVD) - 
 
 Singular Value Decomposition is a matrix factorization method that decomposes a matrix A, like following: 
 
@@ -11,7 +11,7 @@ In the context of image compression, an image is represented as a matrix where e
 ![SVD pic 2](./svd_pic2.png)
 
 
-# Overview of the Dataset
+# Overview of the Dataset - 
 
 - A picture of my Golden Retriever, Alice!
 

@@ -20,7 +20,7 @@ Ruohan Wang
         • K Nearest Neighbors
         • Decision Trees / Regression Trees
         • Random Forests
-        • Other Ensemble Methods, including Boosting
+        • Other Ensemble Methods(AdaBoosting and Gradient Boosting)
 
     Unsupervised Learning
         • K-Means Clustering
@@ -30,4 +30,8 @@ Ruohan Wang
 
 
 ### Data
-The data used for the various algorithms come from public databases such as **Kaggle** [https://www.kaggle.com/] and **UCI Machine Learning Repository**[https://archive.ics.uci.edu/ml/index.php].
+The data used for the various algorithms come from public databases such as **Kaggle** [https://www.kaggle.com/] and **UCI Machine Learning Repository**[https://archive.ics.uci.edu/ml/index.php]. Those directly available through ML packeges are directly imported.
+
+
+### Result Reproducibility
+The Notebooks for each method is made such that the code blocks strictly follows the order in which it should be ran. I've done test runs with cleared caches and they are confirmed to work properly. If something breaks due to wrong orders, >ClearCache and Reload Window, and run from the top again. 

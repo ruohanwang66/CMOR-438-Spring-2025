@@ -69,7 +69,7 @@ We visualized:
 
 # Overview of the Dataset - 
 
-- As with Perceptrons, this project uses the [Titanic Survival Data](https://www.kaggle.com/datasets/uciml/ breast-cancer-wisconsin-data) dataset. We will implement Random Forest on survival data of passengers aboard the Titanic. Each passenger includes their survivorship status(0 - didn't survive, 1 - survived), and various attributes such as PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked. 
+- As with Perceptrons, this project uses the [Titanic Survival Data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) dataset. We will implement Random Forest on survival data of passengers aboard the Titanic. Each passenger includes their survivorship status(0 - didn't survive, 1 - survived), and various attributes such as PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked. 
 
 - Based on some choice/combinations of the attributes, we'll try to predict the survival of the passengers
 
